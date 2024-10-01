@@ -2,7 +2,7 @@
 
 <h3 align="center">An Esports & Ai enthusiast</h3>
 
-- 🌱 I’m currently learning ML & Js
+- 🌱 I’m currently learning to set up ETL pipelines & to integrate SQL DBs & NoSQl DBs to auto data-analysis feature
 - 🤔 My other interests are in football, badminton & Table Tennis
 - 💬 Ask me about whatever that is you wish to ask :)
 - 📫 How to reach me: aveddebbarmaofficial@gmail.com
