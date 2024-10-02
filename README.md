@@ -1,6 +1,6 @@
 ### ALo there stranger👋
 
-<h3 align="center">An Esports & Ai enthusiast</h3>
+<h3 align="center">An Crypto & Ai enthusiast</h3>
 
 - 🌱 I’m currently learning to set up ETL pipelines
 - 🌱 Also learning to integrate SQL DBs & NoSQl DBs to auto data-analysis feature
