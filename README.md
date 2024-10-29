@@ -3,7 +3,7 @@
 <h3 align="center">An Crypto & Ai enthusiast</h3>
 
 - 🌱 I’m currently learning to set up ETL pipelines
-- 🌱 Also learning to integrate SQL DBs & NoSQl DBs to auto data-analysis feature
+- 🌱 Also learning to integrate auto data-analysis feature to a storage system
 - 🤔 My other interests are in football, badminton & Table Tennis
 - 💬 Ask me about whatever that is you wish to ask :)
 - 📫 How to reach me: aveddebbarmaofficial@gmail.com
