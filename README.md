@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Data cleaning, data preprocessing**
 
-- 👯 I’m looking to collaborate on **Ai based defect recognition & report generation software**
+- 👯 I’m looking to collaborate on **(W8 still figuring out)**
 
-- 🤝 I’m looking for help with **Customer segmentation**
+- 🤝 I’m looking for help with **life in general**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aved991?tab=repositories](https://github.com/aved991?tab=repositories)
 
