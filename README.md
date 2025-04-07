@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aved991" alt="aved991" /></a> </p>
 
-- 🔭 I’m currently working on **Auto data-analysis feature for Storge systems**
+- 🔭 I’m currently working on **Creating a repo on Machine Learning Techniques**
 
-- 🌱 I’m currently learning **Data cleaning, data preprocessing**
+- 🌱 I’m currently learning **Intermediate SQL & Data cleaning, preprocessing, modelling**
 
 - 👯 I’m looking to collaborate on **(W8 still figuring out)**
 
-- 🤝 I’m looking for help with **life in general**
+- 🤝 I’m looking for help with **finding a learning partner for competition**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aved991?tab=repositories](https://github.com/aved991?tab=repositories)
 
