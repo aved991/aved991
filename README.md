@@ -4,7 +4,7 @@
 <h3 align="center">A Data Science student :)</h3>
 
 
-- 🔭 I’m currently working on **Creating a repo on Machine Learning Techniques**
+- 🔭 I’m currently working on **Polishing data analysis skills**
 
 - 🌱 I’m currently learning **Intermediate SQL & Data cleaning, preprocessing, modelling**
 
