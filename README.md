@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Polishing data analysis skills**
 
-- 🌱 I’m currently learning **Intermediate SQL & Data cleaning, preprocessing, modelling**
+- 🌱 I’m currently learning about **data roles**
 
 - 👯 I’m looking to collaborate on **(W8 still figuring out)**
 
